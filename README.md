@@ -1,4 +1,4 @@
-# Mebarcoding-en-peces-con-Qiime2-para-el-locus-12S
+# Mebarcoding en peces con Qiime2 para el locus 12S
 
 _Martin Holguin Osorio_\
 _junio de 2021_\
